@@ -18,7 +18,7 @@ Berikut manfaat dari penelitian ini :
 - Dengan adanya link pembelajaran keterampilan, user dapat memanfaatkannya untuk mulai meningkatkan keterampilan yang diinginkan.
 
 
-## Installation
+## Instalasi
 
 Untuk menjalankan proyek Ini, ikuti langkah-langkah berikut::
 
@@ -47,7 +47,15 @@ Untuk menjalankan proyek Ini, ikuti langkah-langkah berikut::
     ```bash
     python app.py
     ```
+---
 
+## Sumber
+
+Source dataset:
+
+[Dataset 1](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset)
+
+[Dataset 2](https://docs.google.com/spreadsheets/d/14ZoREh756KPLAocBGj2afbHWpff2rmo3XTjfCJQDVvQ/edit?gid=0#gid=0)
 
 
 
