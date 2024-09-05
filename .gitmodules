@@ -1,0 +1,6 @@
+[submodule "frontend-web"]
+	path = frontend-web
+	url = https://github.com/Fqih/Frontend-JobAdvisor.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Fqih/Frontend-JobAdvisor.git
