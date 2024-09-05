@@ -14,7 +14,7 @@ gb = joblib.load('model/LinkClass/ModelGB.pkl')
 label_encoder2 = joblib.load('model/LinkClass/labelEncoder.pkl')
 tfidf2 = joblib.load('model/LinkClass/tfidf.pkl')
 
-DATABASE = 'db/database.db'
+DATABASE = '/database.db'
 
 def get_db_connection():
     conn = sqlite3.connect(DATABASE)
