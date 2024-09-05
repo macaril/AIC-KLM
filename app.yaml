@@ -1,0 +1,7 @@
+runtime: python310
+
+entrypoint: waitress-serve --host=0.0.0.0 --port=$PORT wsgi:app
+
+handlers:
+- url: /.*
+  script: auto
