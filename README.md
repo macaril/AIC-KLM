@@ -24,7 +24,7 @@ Untuk menjalankan proyek Ini, ikuti langkah-langkah berikut::
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/lutfiardi26/AIC-KLM
+   git clone https://github.com/macaril/AIC-KLM
    ```
 2. Masuk ke Directori
     ```bash
